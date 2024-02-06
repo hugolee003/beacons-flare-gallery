@@ -2,11 +2,11 @@
 
 # Image Gallery with Next.js, Supabase, and Tailwind CSS
 
-Learn how to create an image gallery with dynamic content from a PostgreSQL database, with support for content updates without neding to redeploy.
+Lazy loaded images of our encounters at Teens Pray 2023. Check to see if you made an appearance
 
-Read the tutorial: https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs
+Peep the demo version: https://beacons-flare-gallery.vercel.app
 
-<img width="1406" alt="swag" src="https://user-images.githubusercontent.com/9113740/160301066-c2e44eec-a0aa-4960-8644-3fc95bf8cb34.png">
+<img width="1406" alt="demo" src="https://res.cloudinary.com/dlrwsxomt/image/upload/v1707219269/teens-pray/k4gztxfdv01svbktoqq5.png">
 
 ## Built With
 
@@ -14,3 +14,4 @@ Read the tutorial: https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs
 - [Tailwind CSS](https://tailwindcss.com)
 - [Next.js](https://nextjs.org)
 - [Vercel](https://vercel.com)
+- [Cloudinary](https://cloudinary.com)
